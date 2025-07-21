@@ -18,14 +18,16 @@ Modular & scalable: LangGraph state-machine orchestration. Inspired by productio
 
 
 5. Installation & Environment Setup
+   
 1.Install dependencies:
 pip install -r requirements.txt
+
 2.Setup .env with:
 OPENAI_API_KEY="your_api_key"
 GROQ_API_KEY="your_api_key"
 TAVILY_API_KEY="your_api_key"
 
-6. Running the App
+7. Running the App
 Backend (FastAPI)
 uvicorn backend:app --reload --port 8000
 
