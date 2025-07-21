@@ -1,0 +1,13 @@
+Phase 1- Create Ai Agent
+1.Setup API keys for groq and tavily
+2.Setup LLM and tools
+3. Setup AI agent with serach tool functionality
+
+Phase2-Setup Backend(With Fast API)
+1.Setup Pydantic Model(Schema Validation)
+2.Setup AI agent from frontend Request
+3.Run app and explore Swagger UI Docs
+
+Phase 3- Setup Frontend
+1.setup UI with Streamlit (model provider,model ,system prompt, query)
+2.Connect with backend via URL 
